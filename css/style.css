@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(41, 41, 41, 0.966);
+}
+
+section {
+    border: 2px solid black;
+    margin-top: 150px;
+    margin-left: 40%;
+    width: 220px;
+    height: 310px;
+    border-radius: 20px;
+    background-color: rgba(88, 85, 85, 0.966);
+}
+
+input {
+    margin: 10px;
+    margin: none;
+    outline: none;
+}
+
+label {
+    margin-left: 10%;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+button{ 
+    background-color: rgb(236, 142, 0);
+    border-radius: 4px;
+    margin: none;
+    outline: none;
+    box-shadow: none;
+}
+
+#resultado{
+    position: relative;
+    left: 20px;
+    background-color: white;
+    width: 150px;
+    color: white;
+}
